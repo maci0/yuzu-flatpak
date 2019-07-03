@@ -9,13 +9,13 @@
 
     "finish-args": [
         "--device=all",
-        "--socket=wayland",
-        "--socket=fallback-x11",
+        "--socket=x11",
         "--socket=pulseaudio",
         "--share=network",
         "--share=ipc",
         "--filesystem=xdg-config/yuzu:create",
         "--filesystem=xdg-data/yuzu:create",
+        "--filesystem=xdg-cache/yuzu:create",
         "--filesystem=host:ro"
     ],
     "modules": [
