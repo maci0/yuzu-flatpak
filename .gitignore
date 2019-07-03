@@ -1,0 +1,5 @@
+.flatpak-builder/
+org.yuzu-emu.yuzu/.flatpak-builder/
+org.yuzu-emu.yuzu/build/
+yuzu-repo/
+
