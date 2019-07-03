@@ -7,6 +7,7 @@
     <p>yuzu is an open-source emulator for the Nintendo Switch capable of playing your favorite games.</p>
   </description>
   <categories>
+    <category>Games</category>
     <category>Emulator</category>
   </categories>
   <url type="homepage">https://yuzu-emu.org/</url>
@@ -17,4 +18,8 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <update_contact>maci.stgn@gmail.com</update_contact>
+  <screenshot>https://yuzu-emu.org/images/screenshots/012-Cave%20Story+.png</screenshot>
+  <screenshot>https://yuzu-emu.org/images/screenshots/006-Super%20Mario%20Odyssey.png</screenshot>
+  <screenshot>https://yuzu-emu.org/images/screenshots/018-Pokken%20Tournament.png</screenshot>
+  <screenshot>https://yuzu-emu.org/images/screenshots/060-The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild.png</screenshot>
 </application>
