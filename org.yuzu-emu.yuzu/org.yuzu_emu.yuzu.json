@@ -14,8 +14,8 @@
         "--socket=pulseaudio",
         "--share=network",
         "--share=ipc",
-        "--filesystem=xdg-config/yuzu-emu:create",
-        "--filesystem=xdg-data/yuzu-emu:create",
+        "--filesystem=xdg-config/yuzu:create",
+        "--filesystem=xdg-data/yuzu:create",
         "--filesystem=host:ro"
     ],
     "modules": [
